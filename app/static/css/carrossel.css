@@ -118,8 +118,8 @@ body{
 #linha-horizontal5 {
     width: 250px;
     border: 1px solid #ff6600;
-    margin-left:150px;
-    margin-top:75px;
+    margin-left:585px;
+    margin-top:-23px;
 }
 
 #massafit{
@@ -194,6 +194,8 @@ body{
 }
 
 #igredientesSobre{
+
+
   margin-left:150px;
   letter-spacing:1.5px;
   font-family:Nanum Myeongjo;
