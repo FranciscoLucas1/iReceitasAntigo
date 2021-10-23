@@ -15,16 +15,19 @@ body{
 }
 
 .massalasanha{
-  margin-left:1048px;
+  margin-left:150px;
   font-family:IBM Plex Serif;
   margin-top: -485px;
+  margin-right:815px;
+  margin-bottom: 35px;
 }
 
 .descricaomassa{
-  margin-left:1048px;
+  margin-left:150px;
   width:600px;
   font-family:Nanum Myeongjo;
   margin-top: -400px;
+  margin-bottom: 55px;
  }
 
 .especificacoes{
@@ -103,16 +106,18 @@ body{
 }
 
 .receita{
-  margin-left:1048px;
+  margin-left:150px;
   font-family:IBM Plex Serif;
   margin-top: -485px;
+  margin-bottom: 35px;
 }
 
 .descricaofit{
-  margin-left:1048px;
+  margin-left:150px;
   width:600px;
   font-family:Nanum Myeongjo;
   margin-top: -390px;
+  margin-bottom: 55px;
  }
 
 #linha-horizontal5 {
@@ -120,6 +125,7 @@ body{
     border: 1px solid #ff6600;
     margin-left:585px;
     margin-top:-23px;
+    margin-bottom: 65px;
 }
 
 #massafit{
@@ -154,22 +160,25 @@ body{
 }
 
 .bolo{
-  margin-left:1048px;
+  margin-left:150px;
   font-family:IBM Plex Serif;
   margin-top: -485px;
+  margin-bottom: 15px;
 }
 
 .recheio{
-  margin-left:1048px;
+  margin-left:150px;
   font-family:IBM Plex Serif;
   margin-top: -435px;
+  margin-bottom:35px;
 }
 
 .descricaosobre{
-  margin-left:1080px;
+  margin-left:150px;
   width:600px;
   font-family:Nanum Myeongjo;
   margin-top: -350px;
+  margin-bottom: 55px;
 }
 
 #massabolo{
