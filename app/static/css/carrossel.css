@@ -8,31 +8,40 @@ body{
 .Lasanha{
   width:853px;
   height:480px;
-  margin-left:30px;
+  margin-left:150px;
   border-radius: 10px;
   margin-bottom: 80px;
-  margin-top: -10px;
+  margin-top: 95px;
 }
 
 .massalasanha{
-  margin-left:150px;
+  margin-left:1100px;
   font-family:IBM Plex Serif;
-  margin-top: -485px;
+  margin-top: -455px;
   margin-bottom: 35px;
 }
 
 .descricaomassa{
-  margin-left:150px;
+  margin-left:1100px;
   width:600px;
   font-family:Nanum Myeongjo;
-  margin-top: -400px;
+  margin-top: -10px;
   margin-bottom: 55px;
  }
+
+ .especificacoesautor{
+  font-family:Nanum Myeongjo;
+  margin-left:150px;
+  font-size:25px;
+  margin-top: 250px;
+
+}
 
 .especificacoes{
   font-family:Nanum Myeongjo;
   margin-left:150px;
   font-size:25px;
+
 }
 
 #linha-horizontal {
@@ -98,24 +107,25 @@ body{
 .BoloBanana{
   width:853px;
   height:480px;
+  margin-left: 150px;
   border-radius:10px;
-  margin-bottom:80px;
-  margin-top: 65px;
-  margin-left:-25px;
+  margin-bottom:50px;
+  margin-top: 95px;
+
 }
 
 .receita{
-  margin-left:150px;
+  margin-left:1100px;
   font-family:IBM Plex Serif;
-  margin-top: -485px;
+  margin-top: -455px;
   margin-bottom: 35px;
 }
 
 .descricaofit{
-  margin-left:150px;
+  margin-left:1100px;
   width:600px;
   font-family:Nanum Myeongjo;
-  margin-top: -390px;
+  margin-top: -10px;
   margin-bottom: 55px;
  }
 
@@ -124,7 +134,7 @@ body{
     border: 1px solid #ff6600;
     margin-left:585px;
     margin-top:-23px;
-    margin-bottom: 65px;
+    margin-bottom: 75px;
 }
 
 #massafit{
@@ -152,24 +162,24 @@ body{
 .BoloChocolate{
   width:853px;
   height:480px;
-  margin-left:-25px;
-  border-radius:10px;
-  margin-bottom:80px;
-  margin-top: 65px;
+  margin-left:150px;
+  border-radius: 10px;
+  margin-bottom: 80px;
+  margin-top: 95px;
 }
 
 .bolo{
-  margin-left:150px;
+  margin-left:1100px;
   font-family:IBM Plex Serif;
-  margin-top: -485px;
+  margin-top: -455px;
   margin-bottom: 35px;
 }
 
 .descricaosobre{
-  margin-left:150px;
+  margin-left:1100px;
   width:600px;
   font-family:Nanum Myeongjo;
-  margin-top: -350px;
+  margin-top: -10px;
   margin-bottom: 55px;
 }
 
